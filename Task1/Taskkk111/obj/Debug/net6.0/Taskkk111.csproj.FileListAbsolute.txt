@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Taskkk111\Taskkk111\bin\Debug\net6.0\Taskkk111.exe
+C:\Users\DELL\Desktop\Taskkk111\Taskkk111\bin\Debug\net6.0\Taskkk111.deps.json
+C:\Users\DELL\Desktop\Taskkk111\Taskkk111\bin\Debug\net6.0\Taskkk111.runtimeconfig.json
+C:\Users\DELL\Desktop\Taskkk111\Taskkk111\bin\Debug\net6.0\Taskkk111.dll
+C:\Users\DELL\Desktop\Taskkk111\Taskkk111\bin\Debug\net6.0\Taskkk111.pdb
+C:\Users\DELL\Desktop\Taskkk111\Taskkk111\obj\Debug\net6.0\Taskkk111.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Taskkk111\Taskkk111\obj\Debug\net6.0\Taskkk111.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Taskkk111\Taskkk111\obj\Debug\net6.0\Taskkk111.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Taskkk111\Taskkk111\obj\Debug\net6.0\Taskkk111.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Taskkk111\Taskkk111\obj\Debug\net6.0\Taskkk111.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Taskkk111\Taskkk111\obj\Debug\net6.0\Taskkk111.dll
+C:\Users\DELL\Desktop\Taskkk111\Taskkk111\obj\Debug\net6.0\refint\Taskkk111.dll
+C:\Users\DELL\Desktop\Taskkk111\Taskkk111\obj\Debug\net6.0\Taskkk111.pdb
+C:\Users\DELL\Desktop\Taskkk111\Taskkk111\obj\Debug\net6.0\Taskkk111.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Taskkk111\Taskkk111\obj\Debug\net6.0\ref\Taskkk111.dll
